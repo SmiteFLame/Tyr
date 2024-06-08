@@ -2746,3 +2746,120 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.06.08-15.53.19:577][275]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.06.08-15.53.19:577][275]LogContentValidation: Display: Validating asset /Game/TopDown/Blueprints/item/Tote.Tote
 [2024.06.08-15.53.19:577][275]AssetCheck: /Game/TopDown/Blueprints/item/Tote Validating asset
+[2024.06.08-15.55.35:211][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.06.08-15.55.35:218][172]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/75/DDZL4PX4QPC4HZO0C0ZVOY_Auto6
+[2024.06.08-15.55.35:218][172]LogSavePackage: Moving '../../../../Unreal Projects/Tyr/Saved/DDZL4PX4QPC4HZO0C0ZVOY_Auto68233365749FBBB5FCCBEC48005D2B975.tmp' to '../../../../Unreal Projects/Tyr/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/75/DDZL4PX4QPC4HZO0C0ZVOY_Auto6.uasset'
+[2024.06.08-15.55.35:219][172]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.028
+[2024.06.08-15.55.35:219][172]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2024.06.08-15.55.35:220][172]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/item/Tote] ([2] browsable assets)...
+[2024.06.08-15.55.35:360][172]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/item/Tote.Tote]
+[2024.06.08-15.55.35:360][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/item/Tote]
+[2024.06.08-15.55.35:360][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/item/Tote" FILE="../../../../Unreal Projects/Tyr/Saved/Autosaves/Game/TopDown/Blueprints/item/Tote_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.06.08-15.55.35:369][172]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/item/Tote_Auto6
+[2024.06.08-15.55.35:369][172]LogSavePackage: Moving '../../../../Unreal Projects/Tyr/Saved/Tote_Auto66C359A244CF4CB16515864AC69C884FD.tmp' to '../../../../Unreal Projects/Tyr/Saved/Autosaves/Game/TopDown/Blueprints/item/Tote_Auto6.uasset'
+[2024.06.08-15.55.35:369][172]LogFileHelpers: Auto-saving content packages took 0.151
+[2024.06.08-16.00.57:164][155]LogSlate: Window 'Tote' being destroyed
+[2024.06.08-16.00.57:173][155]LogSlate: Window 'Tote' being destroyed
+[2024.06.08-16.00.57:181][155]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-16.00.57:181][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-16.00.57:283][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.06.08-16.00.57:872][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.06.08-16.01.00:930][163]LogSlate: Window 'Save Content' being destroyed
+[2024.06.08-16.01.00:945][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.08-16.01.01:011][163]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/item/Tote] ([2] browsable assets)...
+[2024.06.08-16.01.01:011][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/item/Tote]
+[2024.06.08-16.01.01:011][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/item/Tote" FILE="../../../../Unreal Projects/Tyr/Content/TopDown/Blueprints/item/Tote.uasset" SILENT=true
+[2024.06.08-16.01.01:018][163]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/item/Tote
+[2024.06.08-16.01.01:019][163]LogSavePackage: Moving '../../../../Unreal Projects/Tyr/Saved/ToteBD8A870B4CAA4C3319E9DDA9225CA659.tmp' to '../../../../Unreal Projects/Tyr/Content/TopDown/Blueprints/item/Tote.uasset'
+[2024.06.08-16.01.01:023][163]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/75/DDZL4PX4QPC4HZO0C0ZVOY
+[2024.06.08-16.01.01:023][163]LogSavePackage: Moving '../../../../Unreal Projects/Tyr/Saved/DDZL4PX4QPC4HZO0C0ZVOY9B485445478E7323E8A55E9539B70A66.tmp' to '../../../../Unreal Projects/Tyr/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/75/DDZL4PX4QPC4HZO0C0ZVOY.uasset'
+[2024.06.08-16.01.01:079][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.940 ms (total: 7.97 sec)
+[2024.06.08-16.01.01:163][163]LogStall: Shutdown...
+[2024.06.08-16.01.01:172][163]LogStall: Shutdown complete.
+[2024.06.08-16.01.01:220][163]LogSlate: Window 'Tyr - Unreal Editor' being destroyed
+[2024.06.08-16.01.01:674][163]LogContentValidation: Display: Starting to validate 2 assets
+[2024.06.08-16.01.01:674][163]LogContentValidation: Enabled validators:
+[2024.06.08-16.01.01:674][163]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.06.08-16.01.01:674][163]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.06.08-16.01.01:674][163]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.06.08-16.01.01:674][163]LogContentValidation: Display: Validating asset /Game/TopDown/Blueprints/item/Tote.Tote
+[2024.06.08-16.01.01:675][163]AssetCheck: /Game/TopDown/Blueprints/item/Tote Validating asset
+[2024.06.08-16.01.01:675][163]LogContentValidation: Display: Validating asset /Game/TopDown/Maps/TopDownMap.TopDownMap
+[2024.06.08-16.01.01:675][163]AssetCheck: /Game/TopDown/Maps/TopDownMap Validating asset
+[2024.06.08-16.01.01:706][163]Cmd: QUIT_EDITOR
+[2024.06.08-16.01.01:707][164]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.06.08-16.01.01:708][164]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.06.08-16.01.01:709][164]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.06.08-16.01.01:709][164]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.06.08-16.01.01:735][164]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-16.01.01:735][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-16.01.01:735][164]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/TopDown/Maps/TopDownMap.TopDownMap
+[2024.06.08-16.01.01:735][164]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.06.08-16.01.01:735][164]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.06.08-16.01.01:736][164]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.06.08-16.01.01:845][164]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.06.08-16.01.01:896][164]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-16.01.01:896][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-16.01.01:900][164]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-16.01.01:900][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-16.01.01:904][164]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-16.01.01:904][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-16.01.01:907][164]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-16.01.01:907][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-16.01.01:910][164]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-16.01.01:911][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-16.01.01:914][164]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-16.01.01:914][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-16.01.01:918][164]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-16.01.01:918][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-16.01.01:922][164]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-16.01.01:922][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-16.01.01:926][164]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.06.08-16.01.01:926][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.08-16.01.02:311][164]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.06.08-16.01.02:335][164]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.06.08-16.01.02:335][164]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.06.08-16.01.02:335][164]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.06.08-16.01.03:046][164]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.06.08-16.01.03:046][164]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.06.08-16.01.03:046][164]LogAudio: Display: Audio Device unregistered from world 'TopDownMap'.
+[2024.06.08-16.01.03:046][164]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.06.08-16.01.03:047][164]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.08-16.01.03:050][164]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.06.08-16.01.03:072][164]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.06.08-16.01.03:072][164]LogAudio: Display: Audio Device Manager Shutdown
+[2024.06.08-16.01.03:078][164]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2024.06.08-16.01.03:094][164]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.06.08-16.01.03:095][164]LogExit: Preparing to exit.
+[2024.06.08-16.01.03:136][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2024.06.08-16.01.03:145][164]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:149][164]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:161][164]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:162][164]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:162][164]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:163][164]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:163][164]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:163][164]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:163][164]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:163][164]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:163][164]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:163][164]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:163][164]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:163][164]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:163][164]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:163][164]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:163][164]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:163][164]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:164][164]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:164][164]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.03:164][164]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.06.08-16.01.05:451][164]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.06.08-16.01.05:750][164]LogExit: Editor shut down
+[2024.06.08-16.01.05:765][164]LogExit: Transaction tracking system shut down
+[2024.06.08-16.01.07:310][164]LogExit: Object subsystem successfully closed.
+[2024.06.08-16.01.07:391][164]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.06.08-16.01.10:209][164]MemoryProfiler: Shutdown
+[2024.06.08-16.01.10:209][164]NetworkingProfiler: Shutdown
+[2024.06.08-16.01.10:209][164]LoadingProfiler: Shutdown
+[2024.06.08-16.01.10:209][164]TimingProfiler: Shutdown
+[2024.06.08-16.01.10:326][164]LogOpenImageDenoise: OIDN shutting down
