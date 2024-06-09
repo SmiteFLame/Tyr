@@ -7,12 +7,13 @@
 			"files": [
 				"D:/Unreal Projects/Tyr/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Unreal Projects/Tyr/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
-				"D:/Unreal Projects/Tyr/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/WZ/S12HFQILNWZQ4M3GG9HELA.uasset",
-				"D:/Unreal Projects/Tyr/Content/TopDown/Blueprints/item/XButton.uasset",
 				"D:/Unreal Projects/Tyr/Content/TopDown/Blueprints/BP_TopDownController.uasset",
 				"D:/Unreal Projects/Tyr/Content/TopDown/Blueprints/item/ToteBluePrint.uasset",
 				"D:/Unreal Projects/Tyr/Content/TopDown/Blueprints/item/Tote.uasset",
-				"D:/Unreal Projects/Tyr/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/75/DDZL4PX4QPC4HZO0C0ZVOY.uasset"
+				"D:/Unreal Projects/Tyr/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/75/DDZL4PX4QPC4HZO0C0ZVOY.uasset",
+				"D:/Unreal Projects/Tyr/Content/TopDown/Blueprints/TyrPlayerHud.uasset",
+				"D:/Unreal Projects/Tyr/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/WZ/S12HFQILNWZQ4M3GG9HELA.uasset",
+				"D:/Unreal Projects/Tyr/Content/TopDown/Blueprints/item/XButton.uasset"
 			]
 		}
 	]
